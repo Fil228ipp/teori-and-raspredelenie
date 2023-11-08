@@ -5,6 +5,7 @@
 1. файл - задание 1.dock
 2. ссылка - http://g2.plzvpn.ru:5000/public/dashboards/CJFsg4XWus3LEXxJAwjTeB9MbyFCWUyXod5kijtH?refresh=60& org_slug=default
 3. ссылка - https://philippochek.shinyapps.io/Philipp/
+4. файл - ЛР4.dock (Инвестиции в жилую недвижимость)
 
 
 Распределенные вычисления и приложения
