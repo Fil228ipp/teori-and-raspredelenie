@@ -6,6 +6,7 @@
 2. ссылка - http://g2.plzvpn.ru:5000/public/dashboards/CJFsg4XWus3LEXxJAwjTeB9MbyFCWUyXod5kijtH?refresh=60& org_slug=default
 3. ссылка - https://philippochek.shinyapps.io/Philipp/
 4. файл - ЛР4.dock (Инвестиции в жилую недвижимость)
+5. файлй - LR8.ipynb (Запросы к чату GPT через Python)
 
 
 Распределенные вычисления и приложения
